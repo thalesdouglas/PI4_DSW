@@ -16,7 +16,7 @@ $(document).ready(function () {
             $('#produtos').append(
                     '<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 card_config">\n\
                             <div class="card produtos">\n\
-                                <img class="card-img-top img-responsive" src=' + produto.foto + '>\n\
+                                <img class="card-img-top img-fluid" src=' + produto.foto + '>\n\
                                 <div class="card-title">\n\
                                     <p> ' + produto.nome + '</p>\n\
                                     <p> R$ ' + produto.preco + '</p>\n\
@@ -34,13 +34,13 @@ $(document).ready(function () {
 function descricao(id) {
     $('.rowCarousel').html('');
     $('#produtos').html('');
-//  $('#css').html('<link href="Libs/descricao.css" rel="stylesheet" type="text/css"/>');
+    $('#css').html('<link href="Libs/descricao.css" rel="stylesheet" type="text/css"/>');
     for (produto of produtos) {
         if (produto.id == id) {
             $('#produtos').append(
                     '<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">\n\
                     <div class="imgDesc">\n\
-                        <img class="imgdescricao img-responsive" src=' + produto.foto + '>\n\
+                        <img class="imgdescricao img-fluid" src=' + produto.foto + '>\n\
                     </div>\n\
                 </div>\n\
                 <div class="divCompra col-xs-12 col-sm-12 col-md-6 col-lg-6">\n\
