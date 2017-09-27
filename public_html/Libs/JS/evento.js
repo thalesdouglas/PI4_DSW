@@ -34,7 +34,7 @@ $(document).ready(function () {
 function descricao(id) {
     $('.rowCarousel').html('');
     $('#produtos').html('');
-    $('#css').html('<link href="Libs/descricao.css" rel="stylesheet" type="text/css"/>');
+//  $('#css').html('<link href="Libs/descricao.css" rel="stylesheet" type="text/css"/>');
     for (produto of produtos) {
         if (produto.id == id) {
             $('#produtos').append(
