@@ -1,0 +1,10 @@
+[
+    {"id":1, "nome": "Oakley Twoface","preco": "413,50", "marca": "Oakley", "modelo" : "OO9189", "cor" : "Verde", "genero" : "masculino"
+    , "foto": "Libs/imgs/produtos/produto1.jpg", "descricao" : "O óculos de sol Twoface polarizado possui frame retangular, aro fechado e lentes polarizadas. As lentes polarizadas eliminam o excesso de reflexos do sol e aumentam o contraste das cores." },
+    {"id":2, "nome": "Ray-Ban Aviador","preco": "530,00", "marca": "Ray-Ban", "modelo" : "RB3025", "cor" : "Dourado", "genero" : "Unisex"
+    , "foto": "Libs/imgs/produtos/produto2.jpg", "descricao" : "Ray-Ban ® Aviator Gradient apresenta o formato de gota que deu início ao Ray-Ban. Originalmente desenvolvido para os U.S. aviadores, o Aviator tornou-se um ícone. O degradê de suas lentes Gradientes garante um visual mais cool, há tempos associado a movimentos cults. O tratamento dispensado às lentes inclui Lentes Polarizadas de Cristal, e degradês em tons de Azul, Cinza e Marrom." } ,  
+    {"id":3, "nome": "LPZ - Tataruga Fosco","preco": "99,00", "marca": "LPZ", "modelo" : "YC3210", "cor" : "Dourado/Tartaruga", "genero" : "Feminino"
+    , "foto": "Libs/imgs/produtos/produto3.jpg", "descricao" : "Os óculos da marca LPZ são incríveis. O preço é justo e te permite ter todos os modelos que você sempre quis. São mais de 300 opções em óculos de sol para todo mundo, do básico ao mais fashion, com lentes espelhadas ou não." },
+    {"id":4, "nome": "Lacoste","preco": "620,00", "marca": "Lacoste", "modelo" : "L741S", "cor" : "Cinza", "genero" : "masculino"
+    , "foto": "Libs/imgs/produtos/produto4.jpg", "descricao" : "A Lacoste é um verdadeiro ícone clássico nos ambientes mais refinados do mundo. O famoso “crocodilo verde” surgiu na França, em 1933, e até hoje é a marca desejo de muitos, principalmente nos óculos. De qualidade incomparável, aposte num modelo Lacoste, seja no grau ou solar, e leve sua estilo clássico estampado nos olhos." }
+    ]

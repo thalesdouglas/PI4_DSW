@@ -1,0 +1,8 @@
+{
+    "name": "PI4_DSW",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Thalles",
+    "contributors": [],
+    "dependencies": {}
+}

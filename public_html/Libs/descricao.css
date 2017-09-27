@@ -1,0 +1,100 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+}
+
+.titulo{
+    position: relative;
+    margin: 3%;
+    text-align: center;
+}
+
+.busca{
+    display: block;
+    margin: auto;
+    margin-bottom: 5%;
+}
+
+.imgDesc {
+    margin-top: 20%;
+    width: 100%;
+    height: 250px;
+}
+
+.imgdescricao {
+    margin: auto;
+    display: block;
+    width: 80%;
+    height: 100%;
+}
+
+.produtoNP {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.comprar{
+    margin-top: 5%;
+    width: 100%;
+    height: 50px;
+}
+
+button {
+    margin: auto;
+    display: block;
+    border: none;
+    border-radius: 5%;
+    width: 40%;
+    height: 100%;
+}
+
+.linha {
+    width: 100%;
+}
+
+.borda{
+    margin-top: 10%;
+    border-top: 1px solid black; 
+}
+
+.divEspecificacao {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.divDescricao {
+    margin-top: 5%;
+    text-align: center;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.h1Nome{
+    
+    font-size: 30px;
+    margin-top: 20%;
+}
+
+.h1Preco{
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+.pDescricao {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.pEspecificacao {
+    width: 100%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+.descricao {
+    text-align: center;
+}
