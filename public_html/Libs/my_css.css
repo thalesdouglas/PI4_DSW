@@ -63,9 +63,6 @@ body, html{
     margin: auto;
 }
 
-.cardCarrinho:hover {
-    border: 1px solid black;
-}
 .card_carrinho {
     margin-top: 5%;
 }
